@@ -13,7 +13,7 @@
     Project URL : "https://expo.dev/@rookielim/rookietodo"
     <br><br>
     <img src="https://user-images.githubusercontent.com/85553325/156907814-9526bd1f-8816-4f81-92a9-736db51416a5.jpg" width="320px" height="480px">
-    <h1>1.Work and Travel log to-do list</h1>
+    <h1>1.Work and Travel To-do list</h1>
     <h3> 📌Record type to-do list</h3>
     <p>Project Period : 2022. 2. 16~ 2022. 03. 04<p>
     <p>"A to-do list to record your work and travel"</p>
